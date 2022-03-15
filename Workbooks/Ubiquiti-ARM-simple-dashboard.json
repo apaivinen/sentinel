@@ -37,7 +37,7 @@
           {
             "type": 1,
             "content": {
-              "json": "**NOTE**: This workbook depends on a parser based on a Kusto Function to work as expected [**UbiquitiAuditEvent**](https://aka.ms/sentinel-UbiquitiUnifi-parser) which is deployed with the Azure Sentinel Solution. This workbook have been deployed from github"
+              "json": "**NOTE**: This workbook depends on a parser based on a Kusto Function to work as expected [**UbiquitiAuditEvent**](https://aka.ms/sentinel-UbiquitiUnifi-parser) which is deployed with the Azure Sentinel Solution. This workbook have been deployed from github by a workflow"
             },
             "name": "text - 2"
           },
